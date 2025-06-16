@@ -931,7 +931,7 @@ PC用スタイル
   .vision-box {
     width: 300px;
     height: 300px;
-    margin: 30px;
+    margin-bottom: 30px;
     position: relative;
   }
 
@@ -955,7 +955,7 @@ PC用スタイル
   .vision-box > span > h4 {
     color: #2710d5;
     font-size: 19px;
-    margin-top: 60px;
+    margin: 60px 0 0 0;
   }
 
   .vision-box > span > h5 {
